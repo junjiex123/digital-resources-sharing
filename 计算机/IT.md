@@ -5,3 +5,4 @@
 | 3 | C++性能优化 | 编程 / C++ | [百度网盘](https://pan.baidu.com/s/1CcDoFZcDgG86kcrQWHvUDg?pwd=x6p4) | `x6p4` |
 | 4 | MATLAB 程序设计（第三版） | 编程 / 数学 / 工程计算 | [百度网盘](https://pan.baidu.com/s/14FvmRB8jX_NCmctXhfvTdQ?pwd=zu6b) | `zu6b` |
 | 5 | 编码（Charles Petzold） | 计算机基础 / 科普 | [百度网盘](https://pan.baidu.com/s/1kjwfvQdkDbo_WevpepdMsQ?pwd=ggq7) | `ggq7` |
+| 6 | 晶体管电路设计（上下册）(铃木雅臣) | 计算机基础 / 科普 | [百度网盘](https://pan.baidu.com/s/1uw9Zxe6CEoqvVQHo5xyO4A?pwd=6jdu) | `6jdu` |
